@@ -1,0 +1,23 @@
+tinhte.vn###__next > div.jsx-4091196271.thread-view:first-child > div.root > div.jsx-3866953344.threadpage.false:nth-child(3) > div.jsx-3866953344.section.bg-white.false:last-child > div.jsx-3866953344.snd:last-child
+theverge.com##div.l-root.l-reskin:nth-child(4) > div.l-header:first-child > div.adblock-allowlist-messaging__wrapper:last-child > iframe.adblock-allowlist-messaging__iframe
+theverge.com##div.l-root.l-reskin:nth-child(4) > div.l-header:first-child > div.adblock-allowlist-messaging__wrapper:last-child > iframe.adblock-allowlist-messaging__iframe
+7news.com.au###root > div.css-ucfztd-StyledSite.e14jsnkv1:first-child > div.css-zivvdw-StyledBaseGrid.e2xxidx7 > div.css-19blgjj-StyledCell.e2xxidx3:first-child > div.css-19blgjj-StyledCell.e2xxidx3:last-child > main > div.js-content-area.css-14vt0a2-StyledContentWrapper.e14i4kh30 > div.css-16fe05k-StyledStickyContainer.eg8dsi40:first-child > div.css-1p0q7st-Box.emeh3ru0 > div.hide-print.ad-no-notice.css-qyun7f-StyledAdUnitWrapper.ezkyf1c0:first-child > div.css-1kd1jj7-StyledCenter.ezkyf1c3 > div.ad-leaderboard-billboard-one.css-tgus8c-StyledAdUnit.ezkyf1c4
+7news.com.au###root > div.css-ucfztd-StyledSite.e14jsnkv1:first-child > div.css-zivvdw-StyledBaseGrid.e2xxidx7 > div.css-19blgjj-StyledCell.e2xxidx3:first-child > div.css-19blgjj-StyledCell.e2xxidx3:last-child > main > div.js-content-area.css-14vt0a2-StyledContentWrapper.e14i4kh30 > div.css-16fe05k-StyledStickyContainer.eg8dsi40:first-child > div.css-1p0q7st-Box.emeh3ru0 > div.hide-print.ad-no-notice.css-qyun7f-StyledAdUnitWrapper.ezkyf1c0:first-child > div.css-1kd1jj7-StyledCenter.ezkyf1c3
+7news.com.au###root > div.css-ucfztd-StyledSite.e14jsnkv1:first-child > div.css-zivvdw-StyledBaseGrid.e2xxidx7 > div.css-19blgjj-StyledCell.e2xxidx3:first-child > div.css-19blgjj-StyledCell.e2xxidx3:last-child > main > div.js-content-area.css-14vt0a2-StyledContentWrapper.e14i4kh30 > div.css-16fe05k-StyledStickyContainer.eg8dsi40:nth-child(2) > div.css-1p0q7st-Box.emeh3ru0 > div.hide-print.ad-no-notice.css-qyun7f-StyledAdUnitWrapper.ezkyf1c0:first-child > div.css-1kd1jj7-StyledCenter.ezkyf1c3 > div.ad-leaderboard-billboard-one.css-tgus8c-StyledAdUnit.ezkyf1c4
+7news.com.au###root > div.css-ucfztd-StyledSite.e14jsnkv1:first-child > div.css-zivvdw-StyledBaseGrid.e2xxidx7 > div.css-19blgjj-StyledCell.e2xxidx3:first-child > div.css-19blgjj-StyledCell.e2xxidx3:last-child > main > div.js-content-area.css-14vt0a2-StyledContentWrapper.e14i4kh30 > div.css-16fe05k-StyledStickyContainer.eg8dsi40:nth-child(2)
+theguardian.com###bannerandheader > div.top-banner-ad-container.js-top-banner:first-child
+theguardian.com###bannerandheader > div.dcr-ln5upl:first-child > div.dcr-v339xn > div.dcr-1avyp1d > div.dcr-1l675nn > span.dcr-l6t30p > div.top-banner-ad-container.dcr-1ck1ko5
+ozbargain.com.au###ozbads-3
+ozbargain.com.au###ozbads-2
+ozbargain.com.au###stickybtn > a.btn
+dealnews.com###auto-id-21_img
+dealnews.com###auto-id-21
+dealnews.com###sidebar > section.widget.widget-ad.widget-ad-top:first-child
+slickdeals.net###crt-adblock-a
+slickdeals.net###omegaBanner
+slickdeals.net###crt-adblock-b
+slickdeals.net###stickyRightRailWrapper > div.sideGridBox.ad:nth-child(6)
+slickdeals.net###stickyRightRailWrapper > div.sideGridBox.ad:nth-child(8)
+slickdeals.net###stickyRightRailWrapper > div.sideGridBox.ad:nth-child(9)
+slickdeals.net###stickyRightRailWrapper > div.sideGridAuWrapper:last-child
+slickdeals.net###middleBannerAd
