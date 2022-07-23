@@ -21,3 +21,11 @@ slickdeals.net###stickyRightRailWrapper > div.sideGridBox.ad:nth-child(8)
 slickdeals.net###stickyRightRailWrapper > div.sideGridBox.ad:nth-child(9)
 slickdeals.net###stickyRightRailWrapper > div.sideGridAuWrapper:last-child
 slickdeals.net###middleBannerAd
+apkcombo.com###main > div.container:first-child > div.columns > div.column.is-nav:last-child > div.ax-revamp.revamp-bottom-ad:nth-child(2) > div.da2s:first-child
+apkcombo.com###main > div.container:first-child > div.columns > div.column.is-nav:last-child > div.ax-revamp.revamp-bottom-ad:nth-child(2)
+apkcombo.com###main > div.container:first-child > div.columns > div.column.is-main:first-child > div.ax-revamp.revamp-top-ad.ax-revamp-resp:first-child
+apkcombo.com###main > div.container:first-child > div.columns > div.column.is-main:first-child > div:nth-child(6) > div.ax-revamp.revamp-middle-ad.ax-revamp-resp:last-child
+apkcombo.com###main > div.container:first-child > div.columns:first-child > div.column.is-nav.is-narrow:last-child > div.ax-revamp.revamp-bottom-ad:nth-child(3) > div.da2s:first-child
+apkcombo.com###main > div.container:first-child > div.columns:first-child > div.column.is-nav.is-narrow:last-child > div.ax-revamp.revamp-bottom-ad:nth-child(3)
+apkcombo.com###main > div.container:first-child > div.columns:first-child > div.column.is-main:first-child > p.diseanmevrtt:nth-child(9)
+apkcombo.com###main > div.container:first-child > div.columns:first-child > div.column.is-main:first-child > div.ax-revamp.revamp-middle-ad.ax-revamp-resp:nth-child(10)
