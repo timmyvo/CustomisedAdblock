@@ -29,3 +29,6 @@ apkcombo.com###main > div.container:first-child > div.columns:first-child > div.
 apkcombo.com###main > div.container:first-child > div.columns:first-child > div.column.is-nav.is-narrow:last-child > div.ax-revamp.revamp-bottom-ad:nth-child(3)
 apkcombo.com###main > div.container:first-child > div.columns:first-child > div.column.is-main:first-child > p.diseanmevrtt:nth-child(9)
 apkcombo.com###main > div.container:first-child > div.columns:first-child > div.column.is-main:first-child > div.ax-revamp.revamp-middle-ad.ax-revamp-resp:nth-child(10)
+ozbargain.com.au###stickybtn > a.btn
+vn-z.vn###top > div.p-body:nth-child(6) > div.p-body-inner > div.p-body-main.p-body-main--withSidebar:last-child > div.p-body-sidebar:last-child > a:nth-child(8) > img
+vn-z.vn###top > div.p-body:nth-child(6) > div.p-body-inner > div.p-body-main.p-body-main--withSidebar:last-child > div.p-body-sidebar:last-child > a:nth-child(7) > img
