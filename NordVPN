@@ -1,0 +1,18 @@
+Server Name = au748.nordvpn.com 
+[Interface]
+
+ListenPort = 38949
+
+PrivateKey = OGXSEi/IqHQXqRXbYx39lhgqoFCocPzLpozid2Jwu1o=
+
+
+
+[Peer]
+
+public key: pj9gjWLAR5nI4yflrSt3pksub/0HRHroYpaEtbmXuSU=
+
+AllowedIPs = 0.0.0.0/0
+
+Endpoint = 185.218.127.81:51820
+
+PersistentKeepalive = 25
